@@ -10,7 +10,16 @@ The haze in a scenario may affect the 360 photo/video quality and the immersive 
 # OmniHaze Datasets
 The OmniHaze Datasets can be obtain from:
 
+Synthetic samples:
+
 link：https://pan.baidu.com/s/1buo0aPjZqFh5GwVg2Nueuw 
 
 password：omdh 
+
+Real-world samples:
+
+link：https://pan.baidu.com/s/1nTnrDngpWqGNJOyYnNEgCg 
+
+password：omdh 
+
 
