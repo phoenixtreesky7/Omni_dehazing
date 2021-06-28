@@ -1,0 +1,1 @@
+python train.py --name omni_ssconv_s1_dehaz_depth --dataroot D:/dzhao/dehazing_360/360hazy_dataset/train/ --loadSize 256 --batchSize 4 --netG p2hed_sc_att_strip --n_strip 1
