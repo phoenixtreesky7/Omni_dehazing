@@ -1,6 +1,5 @@
 # Omni_dehazing
 
-![image](https://github.com/phoenixtreesky7/Omni_dehazing/first.png)
 
 ![image](first.png)
 
