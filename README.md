@@ -1,5 +1,6 @@
 # Omni_dehazing
 
+![image](https://github.com/phoenixtreesky7/Omni_dehazing/first.pdf)
 
 # Stripe Sensitive Convolution for Omnidirectional Image Dehazing
 
