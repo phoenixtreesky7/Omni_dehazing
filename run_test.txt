@@ -1,4 +1,0 @@
-python test.py --netD coarse --netG p2hed_sc_att_strip --n_height 256 --n_width 512 --loadSize 512 --name newdata_inoutdoor_sscov_strip01 --batchSize 1 --which_epoch 32 --phase test
-
-
-python test.py --netD coarse --netG p2hed_sc_att_strip --n_height 872 --n_width 1744 --name newdata_inoutdoor_sscov_strip01 --batchSize 1 --which_epoch 32 --phase test
